@@ -11,6 +11,9 @@ To enhance operational efficiency and customer service at Piwpiw Bakery by autom
 Contribution:
 
 Developed and implemented a data management system for TikTok orders at Piwpiw Bakery, involving the collection and extraction of data from PDFs, and storing it in Google Sheets using APIs.
+
 Designed and executed an ETL process to handle duplicate order IDs, update records, and merge data from various sources.
+
 Automated data entry and consistency maintenance using Python scripts.
+
 Created a Python script to monitor and report orders involving users with a history of parcel returns, enabling effective management and follow-up.
